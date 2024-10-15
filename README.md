@@ -2,6 +2,8 @@
 
 ## Come inserire il progetto su wordpress?
 
+(eliminare la cartella 'Migration_WP' per non incorrere in possibile bug durante l'importazione del tema)
+
 - Scaricare il progetto sul proprio pc ed estrarlo
 - andare nella cartella di wordpress poi in './wp-content/themes' ed inserire la cartella scaricata qui dentro
 - andando su wordpress, nella sezione dei temi, troveremo il tema inserito
